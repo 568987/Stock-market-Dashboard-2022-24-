@@ -13,3 +13,7 @@ Features
 	Sector-wise Analysis
 	Volatility Tracking
 	Volume Insights
+	
+Screenshots / Demos
+	Sho what the Dashboard looks like:-https://github.com/568987/Stock-market-Dashboard-2022-24-/blob/main/StockScope%20Analytics.png
+	
